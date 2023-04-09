@@ -35,4 +35,4 @@ export default defineConfig({
 });
 ```
 
-It's important to add it **after** `vue()` or your styles will not be scoped.
+It's important to add it **after** `vue()` or it will not work.
